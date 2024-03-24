@@ -1,4 +1,4 @@
-                                  Loan Prediction
+                                    Loan Prediction
 
 A large portion of a retail bank’s profits come from the interests incurred on home loans.
 But this is incumbent upon the timely payments of premiums of the loans by the clients.
